@@ -2,4 +2,9 @@ pandas
 numpy
 seaborn
 matplotlib
--e .
+pytz
+scipy
+joblib
+scikit-learn
+joblib
+# -e .
