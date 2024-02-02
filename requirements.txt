@@ -8,4 +8,5 @@ joblib
 scikit-learn
 joblib
 threadpoolctl 
+dill
 # -e .
