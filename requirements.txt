@@ -9,4 +9,5 @@ scikit-learn
 joblib
 threadpoolctl 
 dill
+Flask
 # -e .
